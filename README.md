@@ -18,7 +18,7 @@ This project is a deep learning-based Ayurvedic medicinal plant classification s
 
 # 🛠️ Installation
 ```
-git clone https://github.com/your-username/ayurvedic-plant-id.git
+git clone https://github.com/dileepbethu/ayurvedic-plant-id.git
 cd ayurvedic-plant-id
 pip install -r requirements.txt
  ```
